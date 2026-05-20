@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Hotel_Reservation.png" alt="Banner">
+</p>
+
 # Hotel Reservation System
 
 ## Project Description
